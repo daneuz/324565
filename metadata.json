@@ -1,0 +1,17 @@
+{
+  "name": "Nearby Chat",
+  "description": "A group chat application that uses the Nearby Connections API to automatically discover and connect to nearby devices over Bluetooth/WiFi Direct.",
+  "requestFramePermissions": [
+    "BLUETOOTH",
+    "BLUETOOTH_ADMIN",
+    "ACCESS_WIFI_STATE",
+    "CHANGE_WIFI_STATE",
+    "ACCESS_COARSE_LOCATION",
+    "ACCESS_FINE_LOCATION",
+    "BLUETOOTH_ADVERTISE",
+    "BLUETOOTH_CONNECT",
+    "BLUETOOTH_SCAN",
+    "NEARBY_WIFI_DEVICES"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

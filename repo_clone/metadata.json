@@ -1,0 +1,6 @@
+{
+  "name": "MeshNet Chat",
+  "description": "Offline P2P mesh chat using Nearby Connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
